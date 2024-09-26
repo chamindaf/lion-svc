@@ -1,0 +1,16 @@
+fastapi
+sqlalchemy[mssql]
+databases
+alembic
+passlib
+python-jose
+pydantic
+uvicorn==0.13.4
+email-validator
+python-dotenv
+pyodbc
+pymysql
+python-multipart
+pyjwt
+requests
+bcrypt
